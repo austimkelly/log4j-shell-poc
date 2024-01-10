@@ -35,15 +35,8 @@
             <artifactId>junit-jupiter-engine</artifactId>
             <version>${junit.version}</version>
             <scope>test</scope>
-         <dependency>
-<!--          </dependency>
-                 <groupId>com.sun.deploy</groupId>
-                 <artifactId>deploy</artifactId>
-                 <version>1.8</version>
-                 <scope>provided</scope>
-         </dependency> 
--->
-        
+        </dependency>
+
 
 
         <!-- https://mvnrepository.com/artifact/org.apache.logging.log4j/log4j-core -->
