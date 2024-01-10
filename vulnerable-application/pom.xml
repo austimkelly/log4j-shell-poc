@@ -35,6 +35,12 @@
             <artifactId>junit-jupiter-engine</artifactId>
             <version>${junit.version}</version>
             <scope>test</scope>
+         <dependency>
+        <groupId>com.sun.deploy</groupId>
+        <artifactId>deploy</artifactId>
+        <version>1.8</version> <!-- Replace with the appropriate version -->
+        <scope>provided</scope>
+    </dependency>
         </dependency>
 
 
